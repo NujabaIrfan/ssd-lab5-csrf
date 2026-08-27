@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="my-app:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e32b5cf-70c1-4d80-b04e-8e340448433e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/Java</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1YSorN4g2pzbR06MI4M4gtxjRwe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551451140315" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e32b5cf-70c1-4d80-b04e-8e340448433e" name="Default Changelist" comment="" />
+      <created>1550669104016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550669104016</updated>
+      <workItem from="1550669108684" duration="1923000" />
+      <workItem from="1550671564902" duration="3601000" />
+      <workItem from="1550725970693" duration="600000" />
+      <workItem from="1550736557067" duration="4275000" />
+      <workItem from="1550835711986" duration="2193000" />
+      <workItem from="1550902082740" duration="6594000" />
+      <workItem from="1551250141618" duration="600000" />
+      <workItem from="1551449356962" duration="1774000" />
+      <workItem from="1563378489352" duration="699000" />
+      <workItem from="1563380277550" duration="644000" />
+      <workItem from="1563382108795" duration="822000" />
+      <workItem from="1582945555298" duration="380000" />
+      <workItem from="1583135891906" duration="94000" />
+      <workItem from="1672819180145" duration="192000" />
+      <workItem from="1672819393567" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1672819322475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1672819322475" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1672819230608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1672819230608" />
+  </component>
+</project>
